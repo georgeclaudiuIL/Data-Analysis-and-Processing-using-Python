@@ -17,6 +17,11 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
+# Import al view urilor
+from factorial.views import factorial_view
+
 urlpatterns = [
     path('admin/', admin.site.urls),
+    # definire a rutelor
+    path('factorial/<n>/', factorial_view),
 ]
