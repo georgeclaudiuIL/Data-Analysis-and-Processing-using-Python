@@ -25,7 +25,7 @@ print("\nMedia ratingurilor pe categorii:")
 print(round(df.groupby("category")["rating"].mean(), 2))
 
 # 5. Popularitatea pe culori
-print("\nPopularitatea pe culori (unități vândute):")
+print("\nPopularitatea pe culori (unitati vandute):")
 print(df.groupby("color")["quantity_sold"].sum().sort_values(ascending=False))
 
 # 6. Top 5 branduri eficiente
