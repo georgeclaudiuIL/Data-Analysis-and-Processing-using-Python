@@ -1,0 +1,482 @@
+Username,Gender,Age,Activity,Duration,Calories,Steps,Mood,Date,Duration_min,Calories_num,Activity_std,Mood_std,Age_num
+michael1@outlook.com,Male,39,cycling,34 min,233.02 kcal,0,Tired,2/3/2024,34,233.02,Cycling,Tired,39
+daniel1@yahoo.com,Male,64,yoga,83 min,156.1 kcal,0,Happy,9/10/2024,83,156.1,Yoga,Happy,64
+ava1@gmail.com,Female,63,walking,20 min,612.07 kcal,12665,Tired,2/28/2024,20,612.07,Walking,Tired,63
+olivia1@hotmail.com,Female,41,cycling,41 min,619.65 kcal,0,Happy,10/21/2024,41,619.65,Cycling,Happy,41
+sophia1@hotmail.com,Female,31,swimm,78 min,386.29 kcal,0,Energetic,3/9/2024,78,386.29,Swimming,Energetic,31
+ava2@hotmail.com,Female,55,Yoga,61 min,236.42 kcal,0,Sad,8/3/2024,61,236.42,Yoga,Sad,55
+david1@yahoo.com,Male,59,cycling,29 min,299.48 kcal,0,Energetic,1/24/2024,29,299.48,Cycling,Energetic,59
+michael2@outlook.com,Male,58,cycling,96 min,481.51 kcal,0,Neutral,6/25/2024,96,481.51,Cycling,Neutral,58
+john1@yahoo.com,Male,49,walking,29 min,839.73 kcal,14396,Tired,4/2/2024,29,839.73,Walking,Tired,49
+emma1@outlook.com,Female,52,running,31 min,610.79 kcal,9007,Neutral,5/17/2024,31,610.79,Running,Neutral,52
+david2@icloud.com,Male,63,cycling,66 min,895.88 kcal,0,Tired,8/17/2024,66,895.88,Cycling,Tired,63
+john2@yahoo.com,Male,55,running,15 min,110.34 kcal,10339,Happy,4/3/2024,15,110.34,Running,Happy,55
+sophia2@icloud.com,Female,60,yoga,42 min,508.35 kcal,0,Sad,10/16/2024,42,508.35,Yoga,Sad,60
+emily1@yahoo.com,Female,60,yoga,60 min,410.04 kcal,0,Happy,11/21/2024,60,410.04,Yoga,Happy,60
+olivia2@icloud.com,Female,33,running,39 min,505.84 kcal,2296,Energetic,3/9/2024,39,505.84,Running,Energetic,33
+david3@icloud.com,Male,21,swimming,84 min,760.62 kcal,0,Neutral,3/14/2024,84,760.62,Swimming,Neutral,21
+john3@yahoo.com,Male,42,walking,64 min,275.42 kcal,12846,Energetic,5/14/2024,64,275.42,Walking,Energetic,42
+emma2@gmail.com,Female,30,cycling,42 min,873.4 kcal,0,Sad,1/24/2024,42,873.4,Cycling,Sad,30
+david4@hotmail.com,Male,21,gym,25 min,773.64 kcal,0,Sad,2/22/2024,25,773.64,Strength Training,Sad,21
+ava3@icloud.com,Female,55,gym,20 min,576.47 kcal,0,Sad,10/17/2024,20,576.47,Strength Training,Sad,55
+ava4@hotmail.com,Female,22,gym,42 min,480.0 kcal,0,Tired,2/8/2024,42,480.0,Strength Training,Tired,22
+daniel2@yahoo.com,Male,60,gym,53 min,841.99 kcal,0,Neutral,5/4/2024,53,841.99,Strength Training,Neutral,60
+daniel3@icloud.com,Male,63,cycling,41 min,634.37 kcal,0,Tired,9/16/2024,41,634.37,Cycling,Tired,63
+james1@hotmail.com,Male,20,walking,57 min,705.45 kcal,10438,Tired,3/24/2024,57,705.45,Walking,Tired,20
+john4@hotmail.com,Male,31,swimming,46 min,616.89 kcal,0,Sad,7/20/2024,46,616.89,Swimming,Sad,31
+michael3@outlook.com,Male,44,walking,37 min,676.08 kcal,5442,Energetic,11/28/2024,37,676.08,Walking,Energetic,44
+sophia3@gmail.com,Female,39,cycling,23 min,871.86 kcal,0,Tired,11/17/2024,23,871.86,Cycling,Tired,39
+john5@hotmail.com,Male,34,running,89 min,868.15 kcal,4349,Happy,2/20/2024,89,868.15,Running,Happy,34
+ava5@yahoo.com,Female,42,gym,39 min,266.51 kcal,0,Energetic,1/17/2024,39,266.51,Strength Training,Energetic,42
+sophia4@yahoo.com,Female,45,walking,100 min,832.66 kcal,10209,Tired,11/28/2024,100,832.66,Walking,Tired,45
+james2@outlook.com,Male,43,swimming,52 min,521.25 kcal,0,Energetic,11/13/2024,52,521.25,Swimming,Energetic,43
+daniel4@hotmail.com,Male,53,Walking,53 min,293.88 kcal,7043,Sad,10/21/2024,53,293.88,Walking,Sad,53
+david5@icloud.com,Male,28,swimming,25 min,291.22 kcal,0,Sad,6/3/2024,25,291.22,Swimming,Sad,28
+sophia5@yahoo.com,Female,27,walking,20 min,258.12 kcal,7784,Sad,2/15/2024,20,258.12,Walking,Sad,27
+james3@icloud.com,Male,43,running,33 min,607.65 kcal,90,Happy,7/8/2024,33,607.65,Running,Happy,43
+john6@yahoo.com,Male,25,yoga,32 min,731.2 kcal,0,Tired,9/20/2024,32,731.2,Yoga,Tired,25
+david6@icloud.com,Male,53,yoga,35 min,682.11 kcal,0,Energetic,5/25/2024,35,682.11,Yoga,Energetic,53
+david7@gmail.com,Male,58,running,50 min,423.89 kcal,11690,Tired,4/9/2024,50,423.89,Running,Tired,58
+michael4@hotmail.com,Male,42,swimming,34 min,650.46 kcal,0,Energetic,7/11/2024,34,650.46,Swimming,Energetic,42
+james4@gmail.com,Male,49,running,49 min,420.46 kcal,475,Energetic,6/22/2024,49,420.46,Running,Energetic,49
+emma3@gmail.com,Female,57,gym,18 min,820.89 kcal,0,Tired,11/1/2024,18,820.89,Strength Training,Tired,57
+michael5@hotmail.com,Male,34,yoga,56 min,229.91 kcal,0,Tired,7/9/2024,56,229.91,Yoga,Tired,34
+emily2@icloud.com,Female,19,swimming,84 min,94.27 kcal,0,Neutral,11/3/2024,84,94.27,Swimming,Neutral,19
+sophia6@gmail.com,Female,19,gym,34 min,252.76 kcal,0,Happy,10/7/2024,34,252.76,Strength Training,Happy,19
+ava6@hotmail.com,Female,28,cycling,28 min,541.88 kcal,0,Sad,11/13/2024,28,541.88,Cycling,Sad,28
+sophia7@icloud.com,Female,62,cycling,102 min,560.35 kcal,0,Sad,1/12/2024,102,560.35,Cycling,Sad,62
+olivia3@hotmail.com,Female,44,yoga,28 min,418.49 kcal,0,Energetic,12/5/2024,28,418.49,Yoga,Energetic,44
+daniel5@hotmail.com,Male,47,yoga,120 min,671.37 kcal,0,Tired,4/27/2024,120,671.37,Yoga,Tired,47
+emma4@gmail.com,Female,39,walking,78 min,773.31 kcal,2979,Energetic,4/12/2024,78,773.31,Walking,Energetic,39
+daniel6@hotmail.com,Male,51,running,25 min,255.15 kcal,6658,Energetic,9/25/2024,25,255.15,Running,Energetic,51
+emma5@hotmail.com,Female,23,cycling,43 min,393.74 kcal,0,Tired,11/19/2024,43,393.74,Cycling,Tired,23
+david8@yahoo.com,Male,40,swimming,73 min,280.28 kcal,0,Neutral,2/24/2024,73,280.28,Swimming,Neutral,40
+michael6@gmail.com,Male,31,swimming,76 min,285.02 kcal,0,Sad,10/10/2024,76,285.02,Swimming,Sad,31
+olivia4@icloud.com,Female,37,walking,105 min,504.01 kcal,4494,Happy,1/18/2024,105,504.01,Walking,Happy,37
+emma6@gmail.com,Female,18,gym,51 min,448.99 kcal,0,Tired,3/2/2024,51,448.99,Strength Training,Tired,18
+emily3@hotmail.com,Female,49,walking,88 min,585.03 kcal,878,Neutral,3/26/2024,88,585.03,Walking,Neutral,49
+emily4@yahoo.com,Female,56,gym,116 min,575.66 kcal,0,Sad,7/15/2024,116,575.66,Strength Training,Sad,56
+james5@yahoo.com,Male,54,gym,22 min,568.19 kcal,0,Happy,4/21/2024,22,568.19,Strength Training,Happy,54
+michael7@outlook.com,Male,28,walking,67 min,432.93 kcal,9729,Energetic,5/2/2024,67,432.93,Walking,Energetic,28
+emma7@outlook.com,Female,61,running,48 min,719.65 kcal,10240,Sad,11/26/2024,48,719.65,Running,Sad,61
+michael8@yahoo.com,Male,27,walking,22 min,191.03 kcal,5039,Energetic,12/27/2024,22,191.03,Walking,Energetic,27
+sophia8@gmail.com,Female,61,cycling,88 min,84.2 kcal,0,Neutral,8/17/2024,88,84.2,Cycling,Neutral,61
+ava7@gmail.com,Female,58,yoga,26 min,449.51 kcal,0,Tired,6/22/2024,26,449.51,Yoga,Tired,58
+emma8@hotmail.com,Female,60,yoga,119 min,696.42 kcal,0,Energetic,2/11/2024,119,696.42,Yoga,Energetic,60
+david9@outlook.com,Male,60,gym,74 min,401.26 kcal,0,Sad,6/20/2024,74,401.26,Strength Training,Sad,60
+sophia9@yahoo.com,Female,53,running,51 min,422.4 kcal,11440,Energetic,2/1/2024,51,422.4,Running,Energetic,53
+michael9@hotmail.com,Male,53,walking,85 min,396.79 kcal,3681,Happy,8/4/2024,85,396.79,Walking,Happy,53
+daniel7@icloud.com,Male,44,yoga,75 min,257.17 kcal,0,Neutral,7/7/2024,75,257.17,Yoga,Neutral,44
+emily5@icloud.com,Female,44,cycling,115 min,481.58 kcal,0,Happy,5/24/2024,115,481.58,Cycling,Happy,44
+emma9@gmail.com,Female,46,gym,76 min,343.36 kcal,0,Sad,7/15/2024,76,343.36,Strength Training,Sad,46
+sophia10@hotmail.com,Female,32,yoga,20 min,320.45 kcal,0,Energetic,7/22/2024,20,320.45,Yoga,Energetic,32
+michael10@hotmail.com,Male,48,cycling,58 min,579.77 kcal,0,Happy,6/28/2024,58,579.77,Cycling,Happy,48
+emma10@yahoo.com,Female,57,walking,45 min,586.49 kcal,4708,Neutral,12/3/2024,45,586.49,Walking,Neutral,57
+emily6@hotmail.com,Female,28,swimming,53 min,817.91 kcal,0,Tired,1/10/2024,53,817.91,Swimming,Tired,28
+james6@yahoo.com,Male,28,running,25 min,568.07 kcal,6267,Sad,11/8/2024,25,568.07,Running,Sad,28
+daniel8@outlook.com,Male,34,swimming,16 min,814.07 kcal,0,Tired,11/18/2024,16,814.07,Swimming,Tired,34
+ava8@hotmail.com,Female,58,yoga,103 min,262.58 kcal,0,Tired,4/13/2024,103,262.58,Yoga,Tired,58
+olivia5@gmail.com,Female,62,cycling,17 min,881.25 kcal,0,Energetic,5/1/2024,17,881.25,Cycling,Energetic,62
+john7@gmail.com,Male,36,running,92 min,731.64 kcal,3588,Neutral,10/9/2024,92,731.64,Running,Neutral,36
+michael11@hotmail.com,Male,58,swimming,20 min,312.59 kcal,0,Happy,10/12/2024,20,312.59,Swimming,Happy,58
+james7@outlook.com,Male,30,running,115 min,508.5 kcal,5994,Tired,9/9/2024,115,508.5,Running,Tired,30
+emma11@icloud.com,Female,39,walking,74 min,868.46 kcal,2306,Neutral,11/24/2024,74,868.46,Walking,Neutral,39
+david10@gmail.com,Male,23,yoga,16 min,274.79 kcal,0,Energetic,6/22/2024,16,274.79,Yoga,Energetic,23
+olivia6@outlook.com,Female,61,running,75 min,71.27 kcal,14487,Sad,6/20/2024,75,71.27,Running,Sad,61
+daniel9@hotmail.com,Male,25,running,20 min,854.32 kcal,4986,Energetic,2/4/2024,20,854.32,Running,Energetic,25
+olivia7@outlook.com,Female,55,swimming,108 min,181.34 kcal,0,Happy,8/20/2024,108,181.34,Swimming,Happy,55
+olivia8@icloud.com,Female,46,Yoga,45 min,777.13 kcal,0,Tired,9/21/2024,45,777.13,Yoga,Tired,46
+emily7@icloud.com,Female,23,swimming,42 min,595.45 kcal,0,Happy,1/26/2024,42,595.45,Swimming,Happy,23
+michael12@icloud.com,Male,52,cycling,117 min,198.32 kcal,0,Happy,3/1/2024,117,198.32,Cycling,Happy,52
+john8@yahoo.com,Male,34,walking,31 min,680.46 kcal,8619,Happy,12/3/2024,31,680.46,Walking,Happy,34
+james8@gmail.com,Male,61,walking,77 min,655.54 kcal,7267,Happy,2/11/2024,77,655.54,Walking,Happy,61
+ava9@icloud.com,Female,42,gym,82 min,300.66 kcal,0,Sad,7/4/2024,82,300.66,Strength Training,Sad,42
+,Male,45,yoga,44 min,401.74 kcal,0,Energetic,7/14/2024,44,401.74,Yoga,Energetic,45
+daniel10@gmail.com,Male,27,swimming,75 min,107.06 kcal,0,Happy,2/14/2024,75,107.06,Swimming,Happy,27
+david12@icloud.com,Male,55,gym,86 min,330.2 kcal,0,Energetic,6/28/2024,86,330.2,Strength Training,Energetic,55
+john9@outlook.com,Male,56,cycling,60 min,138.06 kcal,0,Neutral,3/22/2024,60,138.06,Cycling,Neutral,56
+david13@gmail.com,Male,25,cycling,88 min,242.24 kcal,0,Sad,10/20/2024,88,242.24,Cycling,Sad,25
+daniel11@gmail.com,Male,29,cycling,104 min,698.05 kcal,0,Tired,1/6/2024,104,698.05,Cycling,Tired,29
+michael13@hotmail.com,Male,23,swimming,82 min,232.86 kcal,0,Energetic,6/6/2024,82,232.86,Swimming,Energetic,23
+ava10@outlook.com,Female,21,running,35 min,691.27 kcal,815,Happy,5/15/2024,35,691.27,Running,Happy,21
+emily8@hotmail.com,Female,54,yoga,88 min,393.76 kcal,0,Energetic,5/4/2024,88,393.76,Yoga,Energetic,54
+ava11@icloud.com,Female,62,cycling,26 min,421.21 kcal,0,Neutral,7/19/2024,26,421.21,Cycling,Neutral,62
+olivia9@gmail.com,Female,39,running,24 min,483.91 kcal,1868,Sad,9/7/2024,24,483.91,Running,Sad,39
+michael14@outlook.com,Male,24,running,47 min,217.68 kcal,9869,Neutral,11/3/2024,47,217.68,Running,Neutral,24
+ava12@outlook.com,Female,61,gym,97 min,590.0 kcal,0,Tired,11/11/2024,97,590.0,Strength Training,Tired,61
+daniel12@yahoo.com,Male,55,walking,60 min,481.24 kcal,5085,Energetic,8/2/2024,60,481.24,Walking,Energetic,55
+emily9@icloud.com,Female,47,gym,85 min,861.1 kcal,0,Happy,8/26/2024,85,861.1,Strength Training,Happy,47
+david14@gmail.com,Male,21,yoga,28 min,739.32 kcal,0,Tired,12/3/2024,28,739.32,Yoga,Tired,21
+emma12@icloud.com,Female,51,gym,93 min,184.93 kcal,0,Tired,7/14/2024,93,184.93,Strength Training,Tired,51
+olivia10@yahoo.com,Female,39,walking,86 min,626.62 kcal,4655,Tired,12/28/2024,86,626.62,Walking,Tired,39
+olivia11@yahoo.com,Female,55,swimming,33 min,829.23 kcal,0,Energetic,3/20/2024,33,829.23,Swimming,Energetic,55
+daniel13@outlook.com,Male,31,cycling,113 min,463.33 kcal,0,Neutral,3/3/2024,113,463.33,Cycling,Neutral,31
+david15@yahoo.com,Male,60,cycling,113 min,575.33 kcal,0,Energetic,3/6/2024,113,575.33,Cycling,Energetic,60
+michael15@icloud.com,Male,20,yoga,61 min,624.91 kcal,0,Energetic,10/10/2024,61,624.91,Yoga,Energetic,20
+sophia11@gmail.com,Female,48,running,62 min,626.56 kcal,9345,Energetic,8/25/2024,62,626.56,Running,Energetic,48
+michael16@hotmail.com,Male,56,running,47 min,94.35 kcal,7873,Tired,9/4/2024,47,94.35,Running,Tired,56
+john10@icloud.com,Male,50,cycling,45 min,378.24 kcal,0,Tired,4/1/2024,45,378.24,Cycling,Tired,50
+olivia12@yahoo.com,Female,54,yoga,38 min,614.72 kcal,0,Sad,6/3/2024,38,614.72,Yoga,Sad,54
+david16@yahoo.com,Male,42,yoga,20 min,590.32 kcal,0,Tired,12/1/2024,20,590.32,Yoga,Tired,42
+emily10@outlook.com,Female,26,walking,60 min,514.11 kcal,13328,Neutral,11/15/2024,60,514.11,Walking,Neutral,26
+michael17@outlook.com,Male,63,yoga,19 min,299.43 kcal,0,Neutral,1/11/2024,19,299.43,Yoga,Neutral,63
+david17@outlook.com,Male,34,walking,111 min,599.87 kcal,4687,Tired,1/28/2024,111,599.87,Walking,Tired,34
+james9@icloud.com,Male,46,yoga,58 min,877.67 kcal,0,Energetic,6/26/2024,58,877.67,Yoga,Energetic,46
+emily11@hotmail.com,Female,56,running,84 min,299.7 kcal,1680,Happy,6/22/2024,84,299.7,Running,Happy,56
+michael18@outlook.com,Male,40,yoga,20 min,667.79 kcal,0,Tired,10/14/2024,20,667.79,Yoga,Tired,40
+emily12@gmail.com,Female,41,gym,117 min,687.41 kcal,0,Happy,3/28/2024,117,687.41,Strength Training,Happy,41
+,Female,59,cycling,61 min,375.43 kcal,0,Happy,10/5/2024,61,375.43,Cycling,Happy,59
+emily14@outlook.com,Female,51,cycling,65 min,317.23 kcal,0,Neutral,2/1/2024,65,317.23,Cycling,Neutral,51
+david18@outlook.com,Male,34,cycling,105 min,429.33 kcal,0,Tired,12/16/2024,105,429.33,Cycling,Tired,34
+michael19@hotmail.com,Male,23,swimming,55 min,617.66 kcal,0,Happy,9/18/2024,55,617.66,Swimming,Happy,23
+michael20@hotmail.com,Male,50,running,30 min,887.36 kcal,12977,Neutral,4/26/2024,30,887.36,Running,Neutral,50
+emma13@icloud.com,Female,57,walking,23 min,312.9 kcal,11746,Energetic,9/14/2024,23,312.9,Walking,Energetic,57
+olivia13@icloud.com,Female,46,yoga,102 min,489.76 kcal,0,Sad,11/19/2024,102,489.76,Yoga,Sad,46
+john11@gmail.com,Male,51,running,53 min,189.96 kcal,5286,Neutral,6/17/2024,53,189.96,Running,Neutral,51
+david19@hotmail.com,Male,26,swimming,53 min,572.26 kcal,0,Sad,11/6/2024,53,572.26,Swimming,Sad,26
+ava13@icloud.com,Female,54,walking,120 min,784.21 kcal,1330,Happy,11/25/2024,120,784.21,Walking,Happy,54
+james10@icloud.com,Male,49,swimming,84 min,296.22 kcal,0,Energetic,4/26/2024,84,296.22,Swimming,Energetic,49
+john12@outlook.com,Male,46,yoga,76 min,444.78 kcal,0,Sad,3/11/2024,76,444.78,Yoga,Sad,46
+olivia14@hotmail.com,Female,26,cycling,80 min,527.4 kcal,0,Neutral,8/4/2024,80,527.4,Cycling,Neutral,26
+daniel14@icloud.com,Male,57,yoga,46 min,868.28 kcal,0,Neutral,6/19/2024,46,868.28,Yoga,Neutral,57
+david20@outlook.com,Male,49,cycling,78 min,69.7 kcal,0,Sad,8/8/2024,78,69.7,Cycling,Sad,49
+emma14@gmail.com,Female,36,gym,16 min,770.1 kcal,0,Neutral,5/24/2024,16,770.1,Strength Training,Neutral,36
+john13@yahoo.com,Male,41,gym,51 min,112.5 kcal,0,Energetic,9/9/2024,51,112.5,Strength Training,Energetic,41
+michael21@hotmail.com,Male,43,cycling,116 min,888.77 kcal,0,Tired,3/7/2024,116,888.77,Cycling,Tired,43
+john14@gmail.com,Male,63,cycling,117 min,452.68 kcal,0,Neutral,10/17/2024,117,452.68,Cycling,Neutral,63
+james11@gmail.com,Male,55,cycling,79 min,754.05 kcal,0,Energetic,12/19/2024,79,754.05,Cycling,Energetic,55
+emily15@hotmail.com,Female,55,cycling,116 min,813.95 kcal,0,Happy,10/16/2024,116,813.95,Cycling,Happy,55
+ava14@yahoo.com,Female,64,walking,89 min,458.38 kcal,8589,Sad,7/5/2024,89,458.38,Walking,Sad,64
+emily16@outlook.com,Female,19,yoga,55 min,405.96 kcal,0,Neutral,7/17/2024,55,405.96,Yoga,Neutral,19
+john15@gmail.com,Male,51,running,86 min,326.29 kcal,10849,Energetic,9/13/2024,86,326.29,Running,Energetic,51
+olivia15@gmail.com,Female,61,swimming,102 min,596.81 kcal,0,Tired,10/16/2024,102,596.81,Swimming,Tired,61
+sophia12@yahoo.com,Female,36,swimming,41 min,636.7 kcal,0,Tired,8/12/2024,41,636.7,Swimming,Tired,36
+emma15@outlook.com,Female,48,running,40 min,753.76 kcal,4442,Sad,12/9/2024,40,753.76,Running,Sad,48
+sophia13@gmail.com,Female,60,gym,43 min,592.25 kcal,0,Happy,7/11/2024,43,592.25,Strength Training,Happy,60
+john16@yahoo.com,Male,44,swim,75 min,455.83 kcal,0,Tired,6/10/2024,75,455.83,Swimming,Tired,44
+ava15@hotmail.com,Female,52,swimming,107 min,772.78 kcal,0,Neutral,7/27/2024,107,772.78,Swimming,Neutral,52
+james12@yahoo.com,Male,29,swimming,52 min,795.23 kcal,0,Tired,10/20/2024,52,795.23,Swimming,Tired,29
+david21@yahoo.com,Male,26,gym,74 min,281.91 kcal,0,Happy,6/6/2024,74,281.91,Strength Training,Happy,26
+john17@icloud.com,Male,36,gym,101 min,693.69 kcal,0,Sad,11/13/2024,101,693.69,Strength Training,Sad,36
+emily17@gmail.com,Female,26,yoga,56 min,845.45 kcal,0,Tired,7/8/2024,56,845.45,Yoga,Tired,26
+ava16@outlook.com,Female,34,swimming,61 min,638.85 kcal,0,Happy,8/10/2024,61,638.85,Swimming,Happy,34
+daniel15@hotmail.com,Male,58,cycling,62 min,572.43 kcal,0,Neutral,8/5/2024,62,572.43,Cycling,Neutral,58
+david22@icloud.com,Male,52,swimming,120 min,235.65 kcal,0,Sad,2/17/2024,120,235.65,Swimming,Sad,52
+ava17@yahoo.com,Female,21,gym,79 min,221.83 kcal,0,Neutral,3/11/2024,79,221.83,Strength Training,Neutral,21
+ava18@hotmail.com,Female,23,gym,72 min,737.39 kcal,0,Neutral,9/14/2024,72,737.39,Strength Training,Neutral,23
+daniel16@outlook.com,Male,43,cycling,119 min,52.56 kcal,0,Sad,2/2/2024,119,52.56,Cycling,Sad,43
+john18@hotmail.com,Male,48,walking,51 min,397.54 kcal,12598,Neutral,11/24/2024,51,397.54,Walking,Neutral,48
+james13@hotmail.com,Male,42,yoga,25 min,630.32 kcal,0,Sad,3/21/2024,25,630.32,Yoga,Sad,42
+james14@gmail.com,Male,64,running,15 min,692.75 kcal,4888,Energetic,11/24/2024,15,692.75,Running,Energetic,64
+sophia14@outlook.com,Female,40,running,50 min,210.21 kcal,14339,Happy,1/26/2024,50,210.21,Running,Happy,40
+john19@yahoo.com,Male,31,walking,27 min,554.85 kcal,7314,Sad,11/23/2024,27,554.85,Walking,Sad,31
+emma16@gmail.com,Female,52,running,111 min,784.17 kcal,924,Neutral,9/10/2024,111,784.17,Running,Neutral,52
+ava19@gmail.com,Female,33,cycling,33 min,887.84 kcal,0,Neutral,7/10/2024,33,887.84,Cycling,Neutral,33
+michael22@yahoo.com,Male,53,Yoga,21 min,876.45 kcal,0,Energetic,9/11/2024,21,876.45,Yoga,Energetic,53
+michael23@icloud.com,Male,33,running,53 min,778.91 kcal,2365,Energetic,1/18/2024,53,778.91,Running,Energetic,33
+james15@outlook.com,Male,34,running,57 min,599.7 kcal,7369,Tired,2/18/2024,57,599.7,Running,Tired,34
+ava20@hotmail.com,Female,22,running,117 min,697.44 kcal,11867,Sad,4/16/2024,117,697.44,Running,Sad,22
+john20@icloud.com,Male,30,swimming,30 min,684.85 kcal,0,Energetic,4/23/2024,30,684.85,Swimming,Energetic,30
+david23@outlook.com,Male,36,yoga,74 min,503.6 kcal,0,Tired,5/12/2024,74,503.6,Yoga,Tired,36
+james16@outlook.com,Male,27,running,57 min,245.52 kcal,9335,Neutral,8/18/2024,57,245.52,Running,Neutral,27
+emma17@hotmail.com,Female,47,running,108 min,725.73 kcal,2773,Neutral,12/18/2024,108,725.73,Running,Neutral,47
+john21@icloud.com,Male,22,swimming,21 min,699.69 kcal,0,Neutral,11/8/2024,21,699.69,Swimming,Neutral,22
+,Male,52,cycling,17 min,476.88 kcal,0,Energetic,3/4/2024,17,476.88,Cycling,Energetic,52
+ava21@icloud.com,Female,40,cycling,116 min,387.36 kcal,0,Energetic,8/19/2024,116,387.36,Cycling,Energetic,40
+emily18@hotmail.com,Female,23,yoga,63 min,370.59 kcal,0,Happy,11/1/2024,63,370.59,Yoga,Happy,23
+david24@hotmail.com,Male,29,cycling,17 min,867.25 kcal,0,Neutral,12/27/2024,17,867.25,Cycling,Neutral,29
+sophia15@outlook.com,Female,61,gym,57 min,376.27 kcal,0,Neutral,12/24/2024,57,376.27,Strength Training,Neutral,61
+emily19@icloud.com,Female,32,Walking,58 min,564.39 kcal,10057,Sad,7/25/2024,58,564.39,Walking,Sad,32
+emma18@yahoo.com,Female,32,cycling,85 min,849.97 kcal,0,Neutral,11/19/2024,85,849.97,Cycling,Neutral,32
+olivia16@outlook.com,Female,56,gym,115 min,325.77 kcal,0,Happy,5/14/2024,115,325.77,Strength Training,Happy,56
+sophia16@yahoo.com,Female,61,yoga,36 min,168.01 kcal,0,Tired,8/5/2024,36,168.01,Yoga,Tired,61
+james17@outlook.com,Male,57,yoga,117 min,782.87 kcal,0,Tired,7/27/2024,117,782.87,Yoga,Tired,57
+daniel17@yahoo.com,Male,56,swimming,40 min,457.16 kcal,0,Energetic,6/10/2024,40,457.16,Swimming,Energetic,56
+sophia17@hotmail.com,Female,42,cycling,119 min,717.99 kcal,0,Happy,10/7/2024,119,717.99,Cycling,Happy,42
+david25@outlook.com,Male,64,yoga,105 min,228.2 kcal,0,Tired,12/3/2024,105,228.2,Yoga,Tired,64
+emma19@outlook.com,Female,58,cycling,45 min,264.78 kcal,0,Energetic,7/3/2024,45,264.78,Cycling,Energetic,58
+david26@gmail.com,Male,52,walking,116 min,873.16 kcal,11495,Sad,10/21/2024,116,873.16,Walking,Sad,52
+david27@yahoo.com,Male,46,cycling,65 min,443.6 kcal,0,Sad,12/17/2024,65,443.6,Cycling,Sad,46
+daniel18@outlook.com,Male,23,walking,108 min,170.42 kcal,5110,Tired,8/26/2024,108,170.42,Walking,Tired,23
+emma20@outlook.com,Female,38,walking,53 min,87.98 kcal,11645,Happy,1/28/2024,53,87.98,Walking,Happy,38
+sophia18@hotmail.com,Female,53,running,57 min,525.87 kcal,7570,Neutral,7/21/2024,57,525.87,Running,Neutral,53
+john23@yahoo.com,Male,46,gym,69 min,380.51 kcal,0,Neutral,4/9/2024,69,380.51,Strength Training,Neutral,46
+emily20@icloud.com,Female,41,cycling,40 min,438.92 kcal,0,Energetic,9/21/2024,40,438.92,Cycling,Energetic,41
+emily21@yahoo.com,Female,40,yoga,94 min,196.65 kcal,0,Tired,10/19/2024,94,196.65,Yoga,Tired,40
+daniel19@icloud.com,Male,29,cycling,103 min,170.15 kcal,0,Energetic,10/5/2024,103,170.15,Cycling,Energetic,29
+michael24@outlook.com,Male,42,gym,79 min,605.11 kcal,0,Energetic,7/23/2024,79,605.11,Strength Training,Energetic,42
+john24@yahoo.com,Male,36,walking,50 min,241.12 kcal,4729,Neutral,8/19/2024,50,241.12,Walking,Neutral,36
+,Female,35,gym,120 min,892.26 kcal,0,Happy,12/15/2024,120,892.26,Strength Training,Happy,35
+sophia19@yahoo.com,Female,20,yoga,48 min,346.29 kcal,0,Happy,8/28/2024,48,346.29,Yoga,Happy,20
+ava22@yahoo.com,Female,63,gym,95 min,413.94 kcal,0,Neutral,4/27/2024,95,413.94,Strength Training,Neutral,63
+daniel20@yahoo.com,Male,38,swimming,52 min,295.93 kcal,0,Sad,11/27/2024,52,295.93,Swimming,Sad,38
+john25@gmail.com,Male,59,running,104 min,786.17 kcal,4090,Neutral,12/11/2024,104,786.17,Running,Neutral,59
+emma21@gmail.com,Female,54,swimming,49 min,583.64 kcal,0,Energetic,2/21/2024,49,583.64,Swimming,Energetic,54
+daniel21@outlook.com,Male,47,yoga,56 min,544.66 kcal,0,Happy,12/15/2024,56,544.66,Yoga,Happy,47
+david28@icloud.com,Male,31,yoga,120 min,230.07 kcal,0,Tired,5/11/2024,120,230.07,Yoga,Tired,31
+olivia17@yahoo.com,Female,20,walking,95 min,716.31 kcal,7529,Happy,2/28/2024,95,716.31,Walking,Happy,20
+james18@hotmail.com,Male,62,running,98 min,306.59 kcal,14326,Tired,2/21/2024,98,306.59,Running,Tired,62
+michael25@outlook.com,Male,43,swimming,54 min,667.09 kcal,0,Neutral,7/21/2024,54,667.09,Swimming,Neutral,43
+emily23@outlook.com,Female,55,running,81 min,627.99 kcal,152,Happy,12/11/2024,81,627.99,Running,Happy,55
+michael26@yahoo.com,Male,22,running,64 min,125.93 kcal,13204,Happy,2/11/2024,64,125.93,Running,Happy,22
+michael27@yahoo.com,Male,22,gym,87 min,57.2 kcal,0,Neutral,8/12/2024,87,57.2,Strength Training,Neutral,22
+james19@icloud.com,Male,31,walking,27 min,169.01 kcal,2017,Sad,12/13/2024,27,169.01,Walking,Sad,31
+daniel22@gmail.com,Male,51,gym,80 min,210.35 kcal,0,Tired,11/2/2024,80,210.35,Strength Training,Tired,51
+james20@outlook.com,Male,33,yoga,96 min,554.84 kcal,0,Happy,6/11/2024,96,554.84,Yoga,Happy,33
+olivia18@outlook.com,Female,48,walk,17 min,549.26 kcal,225,Tired,4/2/2024,17,549.26,Walking,Tired,48
+daniel23@yahoo.com,Male,45,swimming,66 min,120.06 kcal,0,Sad,10/5/2024,66,120.06,Swimming,Sad,45
+sophia20@outlook.com,Female,52,cycling,65 min,548.47 kcal,0,Happy,5/23/2024,65,548.47,Cycling,Happy,52
+michael28@hotmail.com,Male,28,yoga,59 min,494.55 kcal,0,Tired,3/12/2024,59,494.55,Yoga,Tired,28
+emily24@icloud.com,Female,39,yoga,49 min,495.28 kcal,0,Sad,11/3/2024,49,495.28,Yoga,Sad,39
+john26@yahoo.com,Male,20,yoga,61 min,375.53 kcal,0,Neutral,1/18/2024,61,375.53,Yoga,Neutral,20
+sophia21@icloud.com,Female,33,yoga,107 min,321.94 kcal,0,Happy,10/12/2024,107,321.94,Yoga,Happy,33
+james21@outlook.com,Male,32,gym,59 min,590.55 kcal,0,Happy,6/1/2024,59,590.55,Strength Training,Happy,32
+daniel24@gmail.com,Male,31,gym,45 min,406.84 kcal,0,Neutral,12/9/2024,45,406.84,Strength Training,Neutral,31
+david29@gmail.com,Male,62,cycling,73 min,878.37 kcal,0,Sad,2/17/2024,73,878.37,Cycling,Sad,62
+ava23@hotmail.com,Female,45,swimming,31 min,251.26 kcal,0,Tired,7/23/2024,31,251.26,Swimming,Tired,45
+sophia22@hotmail.com,Female,30,running,114 min,704.62 kcal,1785,Neutral,2/6/2024,114,704.62,Running,Neutral,30
+olivia19@yahoo.com,Female,46,cycling,74 min,275.26 kcal,0,Happy,3/26/2024,74,275.26,Cycling,Happy,46
+john27@hotmail.com,Male,38,running,26 min,654.48 kcal,5828,Energetic,9/2/2024,26,654.48,Running,Energetic,38
+john28@outlook.com,Male,46,gym,110 min,517.6 kcal,0,Energetic,2/26/2024,110,517.6,Strength Training,Energetic,46
+emily25@yahoo.com,Female,59,yoga,118 min,159.47 kcal,0,Tired,2/2/2024,118,159.47,Yoga,Tired,59
+james22@gmail.com,Male,49,Walking,63 min,630.73 kcal,2831,Tired,4/6/2024,63,630.73,Walking,Tired,49
+ava24@icloud.com,Female,59,cycling,78 min,400.19 kcal,0,Energetic,1/3/2024,78,400.19,Cycling,Energetic,59
+david30@icloud.com,Male,58,gym,116 min,66.6 kcal,0,Tired,8/18/2024,116,66.6,Strength Training,Tired,58
+olivia20@outlook.com,Female,35,running,18 min,321.05 kcal,3588,Happy,5/2/2024,18,321.05,Running,Happy,35
+ava25@outlook.com,Female,28,walking,46 min,608.33 kcal,4366,Sad,12/2/2024,46,608.33,Walking,Sad,28
+james23@hotmail.com,Male,29,running,45 min,553.64 kcal,13208,Tired,10/1/2024,45,553.64,Running,Tired,29
+olivia21@outlook.com,Female,26,cycling,106 min,200.84 kcal,0,Tired,1/1/2024,106,200.84,Cycling,Tired,26
+emily26@icloud.com,Female,22,cycling,105 min,850.63 kcal,0,Sad,2/11/2024,105,850.63,Cycling,Sad,22
+james24@yahoo.com,Male,59,cycling,37 min,651.11 kcal,0,Sad,6/8/2024,37,651.11,Cycling,Sad,59
+daniel25@icloud.com,Male,29,swimming,15 min,856.47 kcal,0,Energetic,10/2/2024,15,856.47,Swimming,Energetic,29
+ava26@hotmail.com,Female,58,gym,28 min,846.18 kcal,0,Tired,12/3/2024,28,846.18,Strength Training,Tired,58
+emily27@outlook.com,Female,46,walking,48 min,228.23 kcal,11356,Happy,6/9/2024,48,228.23,Walking,Happy,46
+emma22@gmail.com,Female,28,Yoga,78 min,799.51 kcal,0,Sad,7/4/2024,78,799.51,Yoga,Sad,28
+sophia23@hotmail.com,Female,46,walking,117 min,768.9 kcal,4831,Happy,6/9/2024,117,768.9,Walking,Happy,46
+james25@gmail.com,Male,64,walking,85 min,850.56 kcal,1525,Tired,10/20/2024,85,850.56,Walking,Tired,64
+michael29@yahoo.com,Male,28,walking,27 min,331.43 kcal,3112,Energetic,12/18/2024,27,331.43,Walking,Energetic,28
+daniel26@icloud.com,Male,33,walking,21 min,383.97 kcal,9005,Energetic,3/2/2024,21,383.97,Walking,Energetic,33
+ava27@gmail.com,Female,30,walking,18 min,225.91 kcal,10456,Tired,2/16/2024,18,225.91,Walking,Tired,30
+emma23@outlook.com,Female,23,swimming,84 min,379.4 kcal,0,Energetic,6/6/2024,84,379.4,Swimming,Energetic,23
+sophia24@gmail.com,Female,54,walking,34 min,689.4 kcal,10935,Happy,2/22/2024,34,689.4,Walking,Happy,54
+ava28@hotmail.com,Female,53,walking,64 min,745.64 kcal,6858,Sad,11/28/2024,64,745.64,Walking,Sad,53
+daniel27@icloud.com,Male,43,swimming,19 min,476.79 kcal,0,Sad,10/22/2024,19,476.79,Swimming,Sad,43
+emma24@yahoo.com,Female,28,running,118 min,213.82 kcal,699,Energetic,2/22/2024,118,213.82,Running,Energetic,28
+ava29@hotmail.com,Female,38,swimming,118 min,106.96 kcal,0,Sad,7/18/2024,118,106.96,Swimming,Sad,38
+john29@outlook.com,Male,25,yoga,34 min,175.97 kcal,0,Sad,2/4/2024,34,175.97,Yoga,Sad,25
+david31@gmail.com,Male,44,cycling,64 min,606.57 kcal,0,Sad,8/2/2024,64,606.57,Cycling,Sad,44
+daniel28@outlook.com,Male,62,swimming,27 min,876.62 kcal,0,Neutral,5/24/2024,27,876.62,Swimming,Neutral,62
+james26@gmail.com,Male,30,yoga,42 min,826.42 kcal,0,Energetic,9/28/2024,42,826.42,Yoga,Energetic,30
+emily28@icloud.com,Female,63,gym,66 min,165.3 kcal,0,Sad,10/1/2024,66,165.3,Strength Training,Sad,63
+john30@yahoo.com,Male,20,yoga,21 min,830.33 kcal,0,Neutral,5/12/2024,21,830.33,Yoga,Neutral,20
+emily29@icloud.com,Female,33,cycling,77 min,554.94 kcal,0,Energetic,10/18/2024,77,554.94,Cycling,Energetic,33
+emily30@icloud.com,Female,19,yoga,21 min,188.47 kcal,0,Neutral,4/21/2024,21,188.47,Yoga,Neutral,19
+daniel29@yahoo.com,Male,45,Yoga,59 min,440.15 kcal,0,Energetic,5/22/2024,59,440.15,Yoga,Energetic,45
+john31@outlook.com,Male,53,swimming,91 min,567.69 kcal,0,Happy,8/3/2024,91,567.69,Swimming,Happy,53
+daniel30@yahoo.com,Male,59,swimming,98 min,303.97 kcal,0,Sad,4/2/2024,98,303.97,Swimming,Sad,59
+,Female,39,swimming,106 min,239.01 kcal,0,Energetic,11/12/2024,106,239.01,Swimming,Energetic,39
+david32@gmail.com,Male,36,walking,75 min,158.75 kcal,4237,Sad,3/22/2024,75,158.75,Walking,Sad,36
+sophia25@icloud.com,Female,44,cycling,62 min,271.48 kcal,0,Energetic,2/16/2024,62,271.48,Cycling,Energetic,44
+ava31@hotmail.com,Female,48,running,79 min,151.84 kcal,11152,Energetic,9/10/2024,79,151.84,Running,Energetic,48
+sophia26@gmail.com,Female,44,gym,73 min,171.74 kcal,0,Neutral,2/16/2024,73,171.74,Strength Training,Neutral,44
+john32@icloud.com,Male,46,cycling,41 min,697.01 kcal,0,Sad,3/16/2024,41,697.01,Cycling,Sad,46
+david33@hotmail.com,Male,19,swimming,15 min,582.68 kcal,0,Neutral,12/12/2024,15,582.68,Swimming,Neutral,19
+daniel31@yahoo.com,Male,22,walking,53 min,856.19 kcal,7469,Sad,10/17/2024,53,856.19,Walking,Sad,22
+olivia22@hotmail.com,Female,40,running,36 min,855.87 kcal,13303,Energetic,1/8/2024,36,855.87,Running,Energetic,40
+john33@outlook.com,Male,25,cycling,106 min,602.96 kcal,0,Energetic,11/9/2024,106,602.96,Cycling,Energetic,25
+john34@icloud.com,Male,59,Walking,21 min,636.29 kcal,6828,Energetic,7/4/2024,21,636.29,Walking,Energetic,59
+,Male,44,swimming,27 min,613.11 kcal,0,Sad,10/23/2024,27,613.11,Swimming,Sad,44
+ava32@icloud.com,Female,36,walk,115 min,140.32 kcal,3254,Sad,4/25/2024,115,140.32,Walking,Sad,36
+ava33@gmail.com,Female,27,walking,114 min,484.95 kcal,11854,Happy,5/21/2024,114,484.95,Walking,Happy,27
+emma25@outlook.com,Female,24,running,20 min,774.41 kcal,5901,Tired,7/24/2024,20,774.41,Running,Tired,24
+john36@hotmail.com,Male,60,swimming,36 min,329.36 kcal,0,Energetic,10/9/2024,36,329.36,Swimming,Energetic,60
+michael30@yahoo.com,Male,43,yoga,73 min,281.06 kcal,0,Energetic,7/21/2024,73,281.06,Yoga,Energetic,43
+ava34@hotmail.com,Female,60,cycling,81 min,494.64 kcal,0,Sad,2/14/2024,81,494.64,Cycling,Sad,60
+james27@outlook.com,Male,53,gym,21 min,59.9 kcal,0,Sad,8/28/2024,21,59.9,Strength Training,Sad,53
+olivia23@hotmail.com,Female,39,cycling,21 min,480.89 kcal,0,Energetic,7/27/2024,21,480.89,Cycling,Energetic,39
+emily31@outlook.com,Female,50,gym,41 min,606.41 kcal,0,Tired,6/27/2024,41,606.41,Strength Training,Tired,50
+daniel32@gmail.com,Male,62,walking,20 min,812.35 kcal,8067,Neutral,12/24/2024,20,812.35,Walking,Neutral,62
+sophia27@outlook.com,Female,43,running,73 min,750.87 kcal,3122,Tired,2/25/2024,73,750.87,Running,Tired,43
+ava35@outlook.com,Female,50,running,103 min,541.77 kcal,11968,Neutral,2/13/2024,103,541.77,Running,Neutral,50
+james28@outlook.com,Male,56,swimming,112 min,261.0 kcal,0,Tired,5/15/2024,112,261.0,Swimming,Tired,56
+david34@outlook.com,Male,62,gym,55 min,655.09 kcal,0,Neutral,4/7/2024,55,655.09,Strength Training,Neutral,62
+michael31@hotmail.com,Male,50,gym,103 min,591.35 kcal,0,Happy,6/18/2024,103,591.35,Strength Training,Happy,50
+james29@icloud.com,Male,45,walking,81 min,140.5 kcal,6240,Neutral,1/22/2024,81,140.5,Walking,Neutral,45
+daniel33@gmail.com,Male,27,walking,103 min,716.7 kcal,3342,Sad,1/12/2024,103,716.7,Walking,Sad,27
+olivia24@yahoo.com,Female,18,swimming,47 min,222.62 kcal,0,Energetic,4/21/2024,47,222.62,Swimming,Energetic,18
+david35@hotmail.com,Male,64,running,52 min,431.49 kcal,11184,Happy,3/6/2024,52,431.49,Running,Happy,64
+ava36@hotmail.com,Female,58,gym,99 min,305.98 kcal,0,Sad,9/12/2024,99,305.98,Strength Training,Sad,58
+michael32@hotmail.com,Male,50,running,68 min,511.62 kcal,6609,Happy,6/8/2024,68,511.62,Running,Happy,50
+daniel34@outlook.com,Male,57,gym,75 min,897.14 kcal,0,Happy,2/22/2024,75,897.14,Strength Training,Happy,57
+ava37@yahoo.com,Female,20,swimming,56 min,374.17 kcal,0,Happy,7/9/2024,56,374.17,Swimming,Happy,20
+olivia25@hotmail.com,Female,49,walking,52 min,813.54 kcal,3154,Tired,9/3/2024,52,813.54,Walking,Tired,49
+david36@hotmail.com,Male,58,walking,41 min,619.78 kcal,12674,Neutral,11/14/2024,41,619.78,Walking,Neutral,58
+james30@yahoo.com,Male,61,running,18 min,440.34 kcal,5434,Happy,2/3/2024,18,440.34,Running,Happy,61
+ava38@icloud.com,Female,55,Walking,104 min,771.01 kcal,5860,Sad,2/10/2024,104,771.01,Walking,Sad,55
+emma26@icloud.com,Female,43,swimming,18 min,452.89 kcal,0,Neutral,3/24/2024,18,452.89,Swimming,Neutral,43
+david37@gmail.com,Male,37,running,110 min,680.22 kcal,11893,Tired,4/14/2024,110,680.22,Running,Tired,37
+michael33@yahoo.com,Male,57,cycling,39 min,147.43 kcal,0,Sad,1/28/2024,39,147.43,Cycling,Sad,57
+david38@yahoo.com,Male,36,swimm,23 min,263.08 kcal,0,Tired,8/11/2024,23,263.08,Swimming,Tired,36
+daniel35@outlook.com,Male,30,cycling,77 min,433.05 kcal,0,Tired,12/19/2024,77,433.05,Cycling,Tired,30
+james31@hotmail.com,Male,18,cycling,46 min,717.81 kcal,0,Energetic,5/27/2024,46,717.81,Cycling,Energetic,18
+emma27@icloud.com,Female,46,cycling,114 min,309.65 kcal,0,Happy,3/21/2024,114,309.65,Cycling,Happy,46
+ava39@outlook.com,Female,20,gym,48 min,511.95 kcal,0,Energetic,11/25/2024,48,511.95,Strength Training,Energetic,20
+ava40@gmail.com,Female,26,Yoga,79 min,483.85 kcal,0,Tired,9/1/2024,79,483.85,Yoga,Tired,26
+ava41@icloud.com,Female,50,running,72 min,185.34 kcal,9279,Sad,11/28/2024,72,185.34,Running,Sad,50
+olivia26@hotmail.com,Female,32,yoga,44 min,103.43 kcal,0,Neutral,1/22/2024,44,103.43,Yoga,Neutral,32
+emma28@gmail.com,Female,20,walking,98 min,325.46 kcal,11530,Sad,11/27/2024,98,325.46,Walking,Sad,20
+ava42@gmail.com,Female,42,swimming,63 min,360.5 kcal,0,Happy,9/9/2024,63,360.5,Swimming,Happy,42
+olivia27@hotmail.com,Female,49,yoga,92 min,55.61 kcal,0,Neutral,8/6/2024,92,55.61,Yoga,Neutral,49
+michael34@outlook.com,Male,28,cycling,92 min,659.71 kcal,0,Neutral,7/26/2024,92,659.71,Cycling,Neutral,28
+emma29@hotmail.com,Female,55,running,97 min,758.36 kcal,367,Neutral,1/5/2024,97,758.36,Running,Neutral,55
+john37@yahoo.com,Male,21,running,48 min,834.08 kcal,8464,Energetic,10/19/2024,48,834.08,Running,Energetic,21
+daniel36@icloud.com,Male,31,yoga,92 min,893.86 kcal,0,Energetic,3/8/2024,92,893.86,Yoga,Energetic,31
+michael35@hotmail.com,Male,28,swimming,102 min,341.27 kcal,0,Sad,10/3/2024,102,341.27,Swimming,Sad,28
+sophia28@icloud.com,Female,27,gym,27 min,200.81 kcal,0,Sad,10/2/2024,27,200.81,Strength Training,Sad,27
+sophia29@yahoo.com,Female,42,cycling,90 min,733.93 kcal,0,Sad,2/14/2024,90,733.93,Cycling,Sad,42
+olivia28@yahoo.com,Female,41,walking,34 min,412.16 kcal,9590,Tired,5/28/2024,34,412.16,Walking,Tired,41
+james32@yahoo.com,Male,44,gym,115 min,523.93 kcal,0,Tired,9/18/2024,115,523.93,Strength Training,Tired,44
+james33@hotmail.com,Male,60,walking,110 min,245.31 kcal,12830,Neutral,2/7/2024,110,245.31,Walking,Neutral,60
+ava43@outlook.com,Female,28,Yoga,96 min,54.5 kcal,0,Neutral,8/20/2024,96,54.5,Yoga,Neutral,28
+emily32@icloud.com,Female,64,yoga,66 min,571.87 kcal,0,Tired,12/20/2024,66,571.87,Yoga,Tired,64
+emma30@hotmail.com,Female,18,running,99 min,841.14 kcal,8489,Tired,4/2/2024,99,841.14,Running,Tired,18
+ava44@gmail.com,Female,61,walk,61 min,253.37 kcal,4,Neutral,2/9/2024,61,253.37,Walking,Neutral,61
+ava45@outlook.com,Female,51,walking,109 min,648.08 kcal,1477,Sad,5/24/2024,109,648.08,Walking,Sad,51
+daniel37@icloud.com,Male,56,running,73 min,840.26 kcal,9419,Happy,5/6/2024,73,840.26,Running,Happy,56
+daniel38@outlook.com,Male,25,gym,47 min,794.7 kcal,0,Sad,5/23/2024,47,794.7,Strength Training,Sad,25
+sophia30@hotmail.com,Female,47,swimming,73 min,812.05 kcal,0,Happy,8/4/2024,73,812.05,Swimming,Happy,47
+sophia31@icloud.com,Female,38,yoga,60 min,489.03 kcal,0,Tired,4/10/2024,60,489.03,Yoga,Tired,38
+emily33@hotmail.com,Female,48,cycling,60 min,235.78 kcal,0,Tired,3/24/2024,60,235.78,Cycling,Tired,48
+sophia32@yahoo.com,Female,33,cycling,41 min,244.83 kcal,0,Neutral,10/12/2024,41,244.83,Cycling,Neutral,33
+emma31@gmail.com,Female,52,Walking,76 min,365.52 kcal,5167,Energetic,10/28/2024,76,365.52,Walking,Energetic,52
+michael36@gmail.com,Male,25,swimming,81 min,441.06 kcal,0,Happy,1/22/2024,81,441.06,Swimming,Happy,25
+ava46@yahoo.com,Female,29,gym,48 min,251.57 kcal,0,Sad,6/12/2024,48,251.57,Strength Training,Sad,29
+olivia29@outlook.com,Female,43,cycling,72 min,202.91 kcal,0,Sad,11/8/2024,72,202.91,Cycling,Sad,43
+david39@outlook.com,Male,49,cycling,47 min,527.82 kcal,0,Happy,7/4/2024,47,527.82,Cycling,Happy,49
+ava47@hotmail.com,Female,54,gym,98 min,601.76 kcal,0,Tired,6/11/2024,98,601.76,Strength Training,Tired,54
+emily34@gmail.com,Female,57,cycling,74 min,586.96 kcal,0,Neutral,11/26/2024,74,586.96,Cycling,Neutral,57
+james34@outlook.com,Male,23,running,58 min,243.99 kcal,5191,Tired,12/9/2024,58,243.99,Running,Tired,23
+olivia30@hotmail.com,Female,44,running,38 min,776.08 kcal,2048,Neutral,11/9/2024,38,776.08,Running,Neutral,44
+michael37@yahoo.com,Male,24,walking,23 min,846.27 kcal,7752,Sad,1/1/2024,23,846.27,Walking,Sad,24
+emily35@hotmail.com,Female,57,running,25 min,606.61 kcal,14507,Energetic,5/8/2024,25,606.61,Running,Energetic,57
+michael38@yahoo.com,Male,19,walking,99 min,353.32 kcal,14995,Tired,8/15/2024,99,353.32,Walking,Tired,19
+emma32@gmail.com,Female,62,gym,37 min,552.21 kcal,0,Sad,7/17/2024,37,552.21,Strength Training,Sad,62
+olivia31@gmail.com,Female,48,gym,16 min,634.6 kcal,0,Energetic,5/1/2024,16,634.6,Strength Training,Energetic,48
+john38@outlook.com,Male,30,yoga,86 min,421.54 kcal,0,Neutral,12/24/2024,86,421.54,Yoga,Neutral,30
+emily36@hotmail.com,Female,58,running,81 min,699.86 kcal,14908,Sad,12/22/2024,81,699.86,Running,Sad,58
+daniel39@gmail.com,Male,30,walking,38 min,166.13 kcal,1808,Energetic,10/15/2024,38,166.13,Walking,Energetic,30
+john39@icloud.com,Male,21,gym,17 min,208.05 kcal,0,Tired,5/5/2024,17,208.05,Strength Training,Tired,21
+sophia33@outlook.com,Female,46,running,109 min,895.36 kcal,3263,Energetic,12/25/2024,109,895.36,Running,Energetic,46
+james35@icloud.com,Male,38,running,95 min,669.0 kcal,12201,Sad,9/4/2024,95,669.0,Running,Sad,38
+john40@hotmail.com,Male,62,gym,34 min,365.69 kcal,0,Neutral,3/16/2024,34,365.69,Strength Training,Neutral,62
+john41@icloud.com,Male,40,swimming,34 min,646.13 kcal,0,Happy,3/16/2024,34,646.13,Swimming,Happy,40
+olivia32@hotmail.com,Female,64,running,17 min,635.86 kcal,5868,Neutral,5/2/2024,17,635.86,Running,Neutral,64
+,Female,54,running,84 min,345.51 kcal,11999,Energetic,5/28/2024,84,345.51,Running,Energetic,54
+emily37@hotmail.com,Female,46,cycling,119 min,273.85 kcal,0,Energetic,1/25/2024,119,273.85,Cycling,Energetic,46
+john42@gmail.com,Male,57,running,56 min,662.85 kcal,10785,Sad,7/7/2024,56,662.85,Running,Sad,57
+john43@outlook.com,Male,24,Yoga,39 min,133.94 kcal,0,Energetic,11/16/2024,39,133.94,Yoga,Energetic,24
+olivia33@icloud.com,Female,56,swimming,24 min,61.12 kcal,0,Energetic,2/15/2024,24,61.12,Swimming,Energetic,56
+james36@icloud.com,Male,63,walking,120 min,574.39 kcal,8667,Happy,12/3/2024,120,574.39,Walking,Happy,63
+david40@gmail.com,Male,24,swimming,44 min,501.91 kcal,0,Neutral,9/22/2024,44,501.91,Swimming,Neutral,24
+david41@outlook.com,Male,24,swimming,88 min,354.27 kcal,0,Energetic,2/6/2024,88,354.27,Swimming,Energetic,24
+michael39@yahoo.com,Male,40,cycling,85 min,892.74 kcal,0,Tired,7/25/2024,85,892.74,Cycling,Tired,40
+sophia34@icloud.com,Female,42,gym,110 min,265.98 kcal,0,Energetic,7/1/2024,110,265.98,Strength Training,Energetic,42
+david42@gmail.com,Male,37,walking,53 min,886.74 kcal,3519,Tired,1/25/2024,53,886.74,Walking,Tired,37
+david43@yahoo.com,Male,24,walking,73 min,352.31 kcal,2267,Tired,6/19/2024,73,352.31,Walking,Tired,24
+ava48@outlook.com,Female,54,running,108 min,115.62 kcal,5319,Energetic,3/16/2024,108,115.62,Running,Energetic,54
+emily38@hotmail.com,Female,20,swimming,118 min,539.84 kcal,0,Happy,6/12/2024,118,539.84,Swimming,Happy,20
+emily39@yahoo.com,Female,59,gym,16 min,588.8 kcal,0,Energetic,1/10/2024,16,588.8,Strength Training,Energetic,59
+olivia34@outlook.com,Female,27,walking,101 min,671.84 kcal,6436,Energetic,10/19/2024,101,671.84,Walking,Energetic,27
+james37@yahoo.com,Male,26,cycling,25 min,454.48 kcal,0,Happy,9/13/2024,25,454.48,Cycling,Happy,26
+michael40@gmail.com,Male,48,gym,40 min,464.68 kcal,0,Tired,4/18/2024,40,464.68,Strength Training,Tired,48
+emily40@outlook.com,Female,45,cycling,102 min,835.52 kcal,0,Happy,11/14/2024,102,835.52,Cycling,Happy,45
+ava49@outlook.com,Female,37,running,59 min,573.79 kcal,13153,Energetic,10/5/2024,59,573.79,Running,Energetic,37
+olivia35@hotmail.com,Female,64,walk,29 min,678.64 kcal,3982,Sad,3/28/2024,29,678.64,Walking,Sad,64
+emily41@outlook.com,Female,46,Yoga,17 min,332.1 kcal,0,Sad,4/7/2024,17,332.1,Yoga,Sad,46
+ava50@gmail.com,Female,62,swimming,100 min,65.63 kcal,0,Sad,1/9/2024,100,65.63,Swimming,Sad,62
+ava51@outlook.com,Female,21,yoga,98 min,853.4 kcal,0,Energetic,11/9/2024,98,853.4,Yoga,Energetic,21
+emily42@outlook.com,Female,36,swimming,64 min,246.49 kcal,0,Sad,12/4/2024,64,246.49,Swimming,Sad,36
+emily43@icloud.com,Female,30,gym,73 min,526.58 kcal,0,Happy,1/8/2024,73,526.58,Strength Training,Happy,30
+michael41@gmail.com,Male,40,swimming,60 min,352.07 kcal,0,Neutral,9/9/2024,60,352.07,Swimming,Neutral,40
+john44@icloud.com,Male,32,running,58 min,812.6 kcal,10763,Neutral,2/24/2024,58,812.6,Running,Neutral,32
+sophia35@yahoo.com,Female,33,gym,34 min,412.5 kcal,0,Sad,6/15/2024,34,412.5,Strength Training,Sad,33
+david44@yahoo.com,Male,26,cycling,103 min,649.37 kcal,0,Neutral,7/25/2024,103,649.37,Cycling,Neutral,26
+olivia36@gmail.com,Female,53,gym,107 min,150.63 kcal,0,Neutral,12/1/2024,107,150.63,Strength Training,Neutral,53
+ava52@icloud.com,Female,56,gym,93 min,246.27 kcal,0,Neutral,11/1/2024,93,246.27,Strength Training,Neutral,56
+david45@yahoo.com,Male,63,swimming,62 min,206.38 kcal,0,Energetic,8/5/2024,62,206.38,Swimming,Energetic,63
+john45@icloud.com,Male,44,running,110 min,620.64 kcal,3323,Neutral,2/6/2024,110,620.64,Running,Neutral,44
+emma34@outlook.com,Female,47,running,69 min,394.14 kcal,685,Sad,12/27/2024,69,394.14,Running,Sad,47
+ava53@outlook.com,Female,51,Walking,72 min,438.37 kcal,14381,Happy,4/17/2024,72,438.37,Walking,Happy,51
+james38@outlook.com,Male,30,cycling,71 min,388.33 kcal,0,Tired,8/6/2024,71,388.33,Cycling,Tired,30
+david46@outlook.com,Male,47,swimming,72 min,126.87 kcal,0,Happy,3/25/2024,72,126.87,Swimming,Happy,47
+james39@outlook.com,Male,38,yoga,18 min,202.05 kcal,0,Neutral,8/3/2024,18,202.05,Yoga,Neutral,38
+michael42@gmail.com,Male,23,walking,105 min,431.99 kcal,5946,Happy,9/23/2024,105,431.99,Walking,Happy,23
+michael43@icloud.com,Male,53,yoga,20 min,703.02 kcal,0,Tired,10/28/2024,20,703.02,Yoga,Tired,53
+michael44@icloud.com,Male,44,cycling,54 min,670.64 kcal,0,Tired,11/6/2024,54,670.64,Cycling,Tired,44
+ava54@outlook.com,Female,18,yoga,78 min,777.1 kcal,0,Happy,10/16/2024,78,777.1,Yoga,Happy,18
+james40@yahoo.com,Male,23,gym,91 min,55.59 kcal,0,Sad,5/20/2024,91,55.59,Strength Training,Sad,23
+michael45@gmail.com,Male,21,swimming,59 min,81.21 kcal,0,Happy,11/19/2024,59,81.21,Swimming,Happy,21
+john46@yahoo.com,Male,44,running,35 min,621.28 kcal,10012,Sad,10/26/2024,35,621.28,Running,Sad,44
+olivia37@icloud.com,Female,23,cycling,56 min,363.28 kcal,0,Happy,7/27/2024,56,363.28,Cycling,Happy,23
+daniel40@outlook.com,Male,51,Yoga,82 min,228.37 kcal,0,Sad,1/4/2024,82,228.37,Yoga,Sad,51
+emily44@outlook.com,Female,64,swimming,92 min,843.81 kcal,0,Tired,7/20/2024,92,843.81,Swimming,Tired,64
+ava55@hotmail.com,Female,26,gym,87 min,471.94 kcal,0,Energetic,8/26/2024,87,471.94,Strength Training,Energetic,26
+sophia36@hotmail.com,Female,25,walking,74 min,581.64 kcal,1932,Neutral,10/14/2024,74,581.64,Walking,Neutral,25
+olivia38@outlook.com,Female,43,swimming,87 min,573.59 kcal,0,Neutral,4/11/2024,87,573.59,Swimming,Neutral,43
+emma35@yahoo.com,Female,59,running,76 min,182.08 kcal,7546,Sad,6/15/2024,76,182.08,Running,Sad,59
+david47@gmail.com,Male,54,swimming,101 min,318.18 kcal,0,Happy,4/19/2024,101,318.18,Swimming,Happy,54
+olivia39@yahoo.com,Female,27,cycling,18 min,338.28 kcal,0,Sad,3/19/2024,18,338.28,Cycling,Sad,27
+daniel41@yahoo.com,Male,63,walking,49 min,401.79 kcal,8143,Neutral,6/15/2024,49,401.79,Walking,Neutral,63
+michael46@icloud.com,Male,41,walking,114 min,221.78 kcal,1517,Energetic,9/1/2024,114,221.78,Walking,Energetic,41
+olivia40@yahoo.com,Female,64,gym,54 min,709.2 kcal,0,Happy,9/22/2024,54,709.2,Strength Training,Happy,64
+james41@yahoo.com,Male,18,cycling,20 min,633.99 kcal,0,Happy,6/15/2024,20,633.99,Cycling,Happy,18
+daniel42@icloud.com,Male,54,cycling,96 min,808.32 kcal,0,Neutral,4/10/2024,96,808.32,Cycling,Neutral,54
+emily45@icloud.com,Female,27,running,50 min,147.29 kcal,10206,Sad,9/4/2024,50,147.29,Running,Sad,27
+john47@icloud.com,Male,42,walking,26 min,412.5 kcal,2932,Sad,10/21/2024,26,412.5,Walking,Sad,42
+daniel43@icloud.com,Male,30,swimming,112 min,620.24 kcal,0,Happy,8/19/2024,112,620.24,Swimming,Happy,30
+emma36@icloud.com,Female,47,cycling,102 min,597.76 kcal,0,Energetic,8/8/2024,102,597.76,Cycling,Energetic,47
+emma37@gmail.com,Female,36,cycling,92 min,538.48 kcal,0,Happy,7/27/2024,92,538.48,Cycling,Happy,36
+emily46@hotmail.com,Female,52,Yoga,66 min,551.96 kcal,0,Sad,4/18/2024,66,551.96,Yoga,Sad,52
+sophia37@hotmail.com,Female,45,gym,115 min,340.87 kcal,0,Neutral,3/22/2024,115,340.87,Strength Training,Neutral,45
+emma38@gmail.com,Female,55,gym,74 min,326.57 kcal,0,Energetic,3/10/2024,74,326.57,Strength Training,Energetic,55
+michael47@gmail.com,Male,46,gym,52 min,381.49 kcal,0,Energetic,4/7/2024,52,381.49,Strength Training,Energetic,46
+daniel44@yahoo.com,Male,63,cycling,26 min,545.32 kcal,0,Sad,7/28/2024,26,545.32,Cycling,Sad,63
+olivia41@gmail.com,Female,43,yoga,70 min,513.35 kcal,0,Neutral,8/5/2024,70,513.35,Yoga,Neutral,43
+james42@hotmail.com,Male,36,swimming,31 min,164.14 kcal,0,Happy,3/24/2024,31,164.14,Swimming,Happy,36
+michael48@outlook.com,Male,26,swimming,118 min,403.48 kcal,0,Sad,7/20/2024,118,403.48,Swimming,Sad,26
+emma39@outlook.com,Female,40,running,38 min,411.06 kcal,121,Sad,8/28/2024,38,411.06,Running,Sad,40
+david48@outlook.com,Male,20,walk,87 min,460.78 kcal,6038,Happy,10/16/2024,87,460.78,Walking,Happy,20
+david49@yahoo.com,Male,47,gym,25 min,494.85 kcal,0,Happy,4/16/2024,25,494.85,Strength Training,Happy,47
+david50@hotmail.com,Male,57,walking,58 min,504.78 kcal,176,Energetic,8/17/2024,58,504.78,Walking,Energetic,57
+olivia42@icloud.com,Female,36,running,19 min,640.79 kcal,9791,Tired,12/26/2024,19,640.79,Running,Tired,36
+michael49@icloud.com,Male,60,cycling,118 min,676.77 kcal,0,Tired,8/3/2024,118,676.77,Cycling,Tired,60
+daniel45@outlook.com,Male,57,cycling,50 min,779.18 kcal,0,Happy,10/6/2024,50,779.18,Cycling,Happy,57
+olivia43@yahoo.com,Female,34,swim,45 min,462.18 kcal,0,Sad,1/11/2024,45,462.18,Swimming,Sad,34
+michael50@outlook.com,Male,44,Yoga,45 min,611.57 kcal,0,Neutral,4/19/2024,45,611.57,Yoga,Neutral,44
+emily47@gmail.com,Female,28,Yoga,66 min,454.8 kcal,0,Sad,4/13/2024,66,454.8,Yoga,Sad,28
+david51@gmail.com,Male,18,cycling,117 min,431.5 kcal,0,Tired,9/22/2024,117,431.5,Cycling,Tired,18
+olivia44@yahoo.com,Female,57,swimming,49 min,334.72 kcal,0,Happy,5/21/2024,49,334.72,Swimming,Happy,57
+sophia38@yahoo.com,Female,63,walking,26 min,777.97 kcal,2128,Energetic,11/25/2024,26,777.97,Walking,Energetic,63
+emily48@yahoo.com,Female,34,cycling,74 min,611.41 kcal,0,Energetic,5/25/2024,74,611.41,Cycling,Energetic,34
+olivia45@yahoo.com,Female,28,walking,50 min,710.54 kcal,6271,Energetic,6/2/2024,50,710.54,Walking,Energetic,28
+emily49@outlook.com,Female,30,gym,65 min,201.68 kcal,0,Happy,3/18/2024,65,201.68,Strength Training,Happy,30
+emma40@yahoo.com,Female,24,walking,24 min,109.85 kcal,11920,Tired,8/1/2024,24,109.85,Walking,Tired,24
+john48@yahoo.com,Male,35,running,104 min,330.36 kcal,6411,Sad,1/17/2024,104,330.36,Running,Sad,35
+james43@yahoo.com,Male,52,running,15 min,376.76 kcal,11292,Energetic,2/19/2024,15,376.76,Running,Energetic,52
+daniel46@gmail.com,Male,21,swimming,97 min,127.07 kcal,0,Tired,2/27/2024,97,127.07,Swimming,Tired,21
+michael51@hotmail.com,Male,42,swimming,39 min,304.04 kcal,0,Happy,11/23/2024,39,304.04,Swimming,Happy,42
+,Female,20,running,18 min,661.78 kcal,9714,Neutral,8/13/2024,18,661.78,Running,Neutral,20
+david52@gmail.com,Male,19,walking,58 min,97.65 kcal,12906,Happy,7/4/2024,58,97.65,Walking,Happy,19
+david53@gmail.com,Male,55,running,24 min,81.35 kcal,2319,Energetic,11/1/2024,24,81.35,Running,Energetic,55
+michael52@hotmail.com,Male,29,swimming,21 min,818.96 kcal,0,Happy,8/20/2024,21,818.96,Swimming,Happy,29
+emily50@hotmail.com,Female,49,gym,117 min,573.28 kcal,0,Neutral,7/11/2024,117,573.28,Strength Training,Neutral,49
+olivia46@gmail.com,Female,61,gym,84 min,166.73 kcal,0,Neutral,1/19/2024,84,166.73,Strength Training,Neutral,61
+james44@yahoo.com,Male,62,cycling,85 min,190.26 kcal,0,Tired,1/5/2024,85,190.26,Cycling,Tired,62
+michael53@gmail.com,Male,49,walking,15 min,56.14 kcal,1460,Tired,5/14/2024,15,56.14,Walking,Tired,49
+michael54@gmail.com,Male,27,swimming,49 min,494.62 kcal,0,Neutral,3/20/2024,49,494.62,Swimming,Neutral,27
+ava56@icloud.com,Female,58,cycling,59 min,405.97 kcal,0,Neutral,4/4/2024,59,405.97,Cycling,Neutral,58
+david54@icloud.com,Male,47,swimm,99 min,226.89 kcal,0,Neutral,2/26/2024,99,226.89,Swimming,Neutral,47
+emma41@gmail.com,Female,28,swimming,20 min,95.92 kcal,0,Tired,4/14/2024,20,95.92,Swimming,Tired,28
+emma42@hotmail.com,Female,24,swimming,21 min,836.13 kcal,0,Neutral,1/16/2024,21,836.13,Swimming,Neutral,24
+emma43@gmail.com,Female,44,running,110 min,625.32 kcal,5336,Neutral,2/11/2024,110,625.32,Running,Neutral,44
+sophia40@outlook.com,Female,32,Walk,75 min,547.33 kcal,890,Energetic,3/7/2024,75,547.33,Walking,Energetic,32

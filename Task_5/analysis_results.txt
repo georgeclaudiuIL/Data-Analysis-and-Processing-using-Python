@@ -1,0 +1,19 @@
+1) Durata medie a activității (minute): 64.37
+
+2) Activitatea cea mai frecventă: Cycling
+
+3) Starea de spirit cea mai frecventă: Energetic
+
+4) Variatia calorii (per Activity):
+                   count        mean         std
+Activity_std                                    
+Cycling               89  513.524494  226.857473
+Walking               84  504.940000  231.881433
+Running               81  525.075802  237.860512
+Swimming              81  442.235432  233.085679
+Strength Training     73  450.393014  227.143452
+Yoga                  73  474.006986  233.088706
+
+5) Age: Q1=30.00, Median(Q2)=43.00, Q3=54.00, IQR=24.00
+
+   Interpretare: IQR măsoară dispersia centrală a vârstelor utilizatorilor.
